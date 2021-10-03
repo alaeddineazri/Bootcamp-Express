@@ -1,0 +1,59 @@
+body {
+    background-image: url(https://www.masterseriestraining.com/wp-content/uploads/2015/03/background3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .content-div  {
+    align-items: center;
+    padding: 50px;
+} 
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px 70px 20px 70px;
+    overflow: hidden;
+    background-color: #333;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+
+
+h5 {
+  padding: 0px;
+} 
+h2 {
+  color: brown;
+} 
+
+ul {
+cursor: pointer;
+font-size: 30px;
+} 
+
+li:hover {
+color: rgb(107, 5, 5);
+  } 
+
+a {
+  justify-content: space-between;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(32, 95, 114);
+}
+  
+
+.div{
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
